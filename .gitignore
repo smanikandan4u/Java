@@ -1,0 +1,10 @@
+# Eclipse
+.classpath
+#.project
+.settings/
+RemoteSystemsTempFiles/
+.recommenders
+
+**/bin/
+/.metadata/
+**.class
